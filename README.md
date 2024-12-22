@@ -1,3 +1,3 @@
 # news
  page for news pages
-![](https://cdn.discordapp.com/attachments/1201582656308117558/1313196155835912336/news.gif?ex=674f40b9&is=674def39&hm=5129bba84c209c883d902eed08b5e47e8a2b1b91d4cb1c056b11ae60322ae522&)
+![hippo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTh6MnozN3k2dTdjNDByOXByZXBvc3EwdmpsZzJkdnkxZzF4eHhlcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BakuWz9FnSV2GC444P/giphy.gif)
